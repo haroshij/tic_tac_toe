@@ -1,6 +1,8 @@
 # gameparts/parts.py
 
 class Board:
+'''Класс, который описывает игровое поле.'''
+
 
     # Новый атрибут.
     field_size = 3
